@@ -8,5 +8,5 @@ Right now, I’m a **Senior ML Engineer at All Ears**, building cool things with
 - 🤖 Currently geeking out over **how LLMs reason, interpret text, and sometimes hallucinate**  
 - 📚 Love digging into the *theory vs. practice* gap in ML  
 - ⚡ Fun fact: I switched fields three times at uni — **Mathematics ➡️ Information Technology ➡️ AI**
-- 📫 Reach me on Twitter: [@amir-rahnama](https://twitter.com/amirrahnama_)  
+- 📫 Reach me on Twitter: [@amirrahnama_](https://twitter.com/amirrahnama_)  
 - 😄 Pronouns: He/Him  
